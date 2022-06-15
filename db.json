@@ -44,6 +44,51 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 8419989
+    },
+    {
+      "id": 4444549,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "test",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2262268,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "test",
+      "description": "test",
+      "location": "test",
+      "date": "2022-06-01T20:40:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 6886872,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Plants and trees",
+      "description": "going to plant some stuff",
+      "location": "forest",
+      "date": "2022-06-03T20:46:00.000Z",
+      "time": "3:00",
+      "attendees": []
     }
   ]
 }
